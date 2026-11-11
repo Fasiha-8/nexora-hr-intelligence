@@ -1,0 +1,9 @@
+department_id,department_name,department_code,description
+DEPT001,Human Resources,HR,"Employee management, recruitment and HR operations"
+DEPT002,Engineering,ENG,Software development and engineering
+DEPT003,Finance,FIN,"Financial planning, accounting and payroll"
+DEPT004,Marketing,MKT,Marketing strategy and brand management
+DEPT005,Sales,SAL,Business development and sales operations
+DEPT006,Operations,OPS,Business operations and process management
+DEPT007,Customer Support,CS,Customer service and support operations
+DEPT008,Information Technology,IT,"IT infrastructure, security and technical support"

@@ -1,0 +1,13 @@
+project_id,project_name,department_id,project_lead_id,start_date,deadline,priority,criticality,project_status,required_team_size,minimum_coverage
+PROJ001,Enterprise HR Platform,DEPT001,EMP0039,2026-10-18,2027-02-20,Critical,Critical,ACTIVE,9,3
+PROJ002,Employee Experience Initiative,DEPT001,EMP0039,2026-06-07,2026-11-29,High,High,ACTIVE,14,8
+PROJ003,Cloud Infrastructure Migration,DEPT002,EMP0006,2026-08-30,2026-12-17,Critical,Critical,ACTIVE,13,11
+PROJ004,AI Automation Platform,DEPT002,EMP0010,2026-06-07,2027-01-10,Critical,Critical,ACTIVE,8,5
+PROJ005,Financial Reporting System,DEPT003,EMP0086,2026-09-14,2027-02-15,High,High,ACTIVE,11,7
+PROJ006,Annual Budget Optimization,DEPT003,EMP0086,2026-07-30,2026-12-01,Medium,Medium,ACTIVE,6,5
+PROJ007,Global Marketing Campaign,DEPT004,EMP0033,2026-05-23,2026-12-21,High,High,ACTIVE,5,4
+PROJ008,Brand Transformation,DEPT004,EMP0109,2026-07-20,2026-11-28,Medium,Medium,PLANNING,13,6
+PROJ009,Enterprise Sales Expansion,DEPT005,EMP0022,2026-07-24,2027-01-30,High,High,ACTIVE,8,7
+PROJ010,Customer Operations Optimization,DEPT006,EMP0019,2026-08-11,2026-11-28,Critical,Critical,ACTIVE,8,2
+PROJ011,Customer Support Automation,DEPT007,EMP0105,2026-05-15,2027-03-04,High,High,ACTIVE,10,4
+PROJ012,Cybersecurity Enhancement,DEPT008,EMP0160,2026-08-17,2027-02-15,Critical,Critical,ACTIVE,15,12

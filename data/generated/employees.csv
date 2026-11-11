@@ -1,0 +1,201 @@
+employee_id,first_name,last_name,email,department_id,job_title,employment_type,employment_status,hire_date,location,salary_grade,manager_id,role
+EMP0001,Danielle,Johnson,danielle.johnson1@example.com,DEPT003,Software Engineer,Contract,Active,2021-03-11,Karachi,G2,EMP0086,EMPLOYEE
+EMP0002,John,Taylor,john.taylor2@example.com,DEPT002,Software Engineer,Contract,Active,2019-09-22,Islamabad,G1,,EMPLOYEE
+EMP0003,Erica,Mcclain,erica.mcclain3@example.com,DEPT004,Marketing Specialist,Contract,Active,2019-08-05,Dubai,G2,,EMPLOYEE
+EMP0004,Brittany,Johnson,brittany.johnson4@example.com,DEPT007,Customer Support Manager,Part-time,Active,2019-08-26,Islamabad,G2,,EMPLOYEE
+EMP0005,Jeffery,Wagner,jeffery.wagner5@example.com,DEPT007,Customer Success Manager,Part-time,Active,2019-01-29,Lahore,G1,,EMPLOYEE
+EMP0006,Anna,Baldwin,anna.baldwin6@example.com,DEPT002,Engineering Manager,Full-time,Active,2024-10-25,Lahore,G5,,MANAGER
+EMP0007,Amy,Robinson,amy.robinson7@example.com,DEPT005,Sales Manager,Contract,Active,2023-11-12,Islamabad,G4,,EMPLOYEE
+EMP0008,Joshua,Booth,joshua.booth8@example.com,DEPT002,QA Engineer,Contract,Active,2025-04-22,Lahore,G5,,EMPLOYEE
+EMP0009,Linda,Wolfe,linda.wolfe9@example.com,DEPT004,Content Strategist,Full-time,Active,2021-09-30,Karachi,G3,EMP0109,EMPLOYEE
+EMP0010,Joshua,Lewis,joshua.lewis10@example.com,DEPT002,Engineering Manager,Full-time,Active,2025-05-07,London,G6,,MANAGER
+EMP0011,Matthew,Davis,matthew.davis11@example.com,DEPT006,Operations Manager,Part-time,Active,2019-09-04,New York,G3,,EMPLOYEE
+EMP0012,Michael,Cooper,michael.cooper12@example.com,DEPT002,Senior Developer,Contract,Active,2021-02-06,Karachi,G4,,EMPLOYEE
+EMP0013,Lindsay,Blair,lindsay.blair13@example.com,DEPT007,Customer Success Manager,Contract,Active,2023-06-01,Karachi,G6,,EMPLOYEE
+EMP0014,David,Nielsen,david.nielsen14@example.com,DEPT006,Operations Analyst,Full-time,Active,2019-07-10,Lahore,G4,EMP0019,EMPLOYEE
+EMP0015,Andrea,Calderon,andrea.calderon15@example.com,DEPT005,Sales Executive,Full-time,On Leave,2024-02-11,Dubai,G6,,EMPLOYEE
+EMP0016,Nicole,Ward,nicole.ward16@example.com,DEPT006,Operations Analyst,Contract,Active,2020-06-27,New York,G4,,EMPLOYEE
+EMP0017,Janet,Williams,janet.williams17@example.com,DEPT003,Finance Manager,Full-time,Active,2020-10-16,Dubai,G5,EMP0086,EMPLOYEE
+EMP0018,Kendra,Galloway,kendra.galloway18@example.com,DEPT005,Sales Analyst,Contract,Active,2026-02-16,Dubai,G4,,EMPLOYEE
+EMP0019,Jesse,Garcia,jesse.garcia19@example.com,DEPT006,Operations Manager,Full-time,Active,2021-03-20,Islamabad,G1,,MANAGER
+EMP0020,Shawn,Flowers,shawn.flowers20@example.com,DEPT002,Senior Developer,Contract,Active,2020-03-27,New York,G4,,EMPLOYEE
+EMP0021,Mitchell,Clark,mitchell.clark21@example.com,DEPT002,Tech Lead,Part-time,Active,2021-02-14,London,G5,,EMPLOYEE
+EMP0022,Jacqueline,Sutton,jacqueline.sutton22@example.com,DEPT005,Sales Manager,Full-time,Active,2019-06-17,Islamabad,G6,,MANAGER
+EMP0023,Chelsea,Jackson,chelsea.jackson23@example.com,DEPT005,Sales Analyst,Part-time,Active,2025-01-20,London,G2,,EMPLOYEE
+EMP0024,John,Ford,john.ford24@example.com,DEPT008,IT Manager,Contract,On Leave,2021-02-23,Lahore,G5,,EMPLOYEE
+EMP0025,Veronica,Bowman,veronica.bowman25@example.com,DEPT003,Finance Manager,Full-time,On Leave,2023-08-04,Lahore,G6,,EMPLOYEE
+EMP0026,Jeffrey,Nguyen,jeffrey.nguyen26@example.com,DEPT004,Marketing Specialist,Part-time,Active,2025-05-22,Dubai,G5,,EMPLOYEE
+EMP0027,Kimberly,Perez,kimberly.perez27@example.com,DEPT001,Recruiter,Part-time,Active,2019-02-15,Lahore,G3,,EMPLOYEE
+EMP0028,Linda,Morales,linda.morales28@example.com,DEPT004,Marketing Specialist,Full-time,On Leave,2019-06-01,Islamabad,G1,,EMPLOYEE
+EMP0029,Jason,Hahn,jason.hahn29@example.com,DEPT008,IT Support Engineer,Contract,Active,2026-04-22,Karachi,G6,,EMPLOYEE
+EMP0030,Jennifer,Lewis,jennifer.lewis30@example.com,DEPT008,IT Manager,Full-time,Active,2023-02-06,Dubai,G4,,MANAGER
+EMP0031,Randall,Rocha,randall.rocha31@example.com,DEPT004,Content Strategist,Contract,Active,2022-10-03,New York,G3,,EMPLOYEE
+EMP0032,Douglas,Taylor,douglas.taylor32@example.com,DEPT007,Customer Success Manager,Part-time,On Leave,2025-03-10,London,G1,,EMPLOYEE
+EMP0033,Anna,Baker,anna.baker33@example.com,DEPT004,Marketing Manager,Full-time,Active,2023-10-29,Dubai,G5,,MANAGER
+EMP0034,Ross,Silva,ross.silva34@example.com,DEPT004,Content Strategist,Full-time,Active,2021-12-06,New York,G6,EMP0033,EMPLOYEE
+EMP0035,Jeffrey,Bright,jeffrey.bright35@example.com,DEPT001,HR Business Partner,Full-time,On Leave,2023-03-10,Lahore,G1,,EMPLOYEE
+EMP0036,Trevor,Campos,trevor.campos36@example.com,DEPT004,Brand Manager,Contract,Active,2026-03-06,Dubai,G2,,EMPLOYEE
+EMP0037,Daniel,Burton,daniel.burton37@example.com,DEPT008,IT Support Engineer,Part-time,Active,2025-08-03,Karachi,G1,,EMPLOYEE
+EMP0038,Erin,Carlson,erin.carlson38@example.com,DEPT002,Tech Lead,Part-time,Active,2022-02-15,London,G6,,EMPLOYEE
+EMP0039,Patrick,Ferrell,patrick.ferrell39@example.com,DEPT001,HR Manager,Full-time,Active,2023-05-09,Lahore,G1,,MANAGER
+EMP0040,John,Tran,john.tran40@example.com,DEPT004,Marketing Specialist,Full-time,Active,2018-12-13,Karachi,G4,EMP0109,EMPLOYEE
+EMP0041,Erin,Wilson,erin.wilson41@example.com,DEPT003,Financial Analyst,Part-time,Active,2026-05-18,Islamabad,G4,,EMPLOYEE
+EMP0042,Amanda,Adams,amanda.adams42@example.com,DEPT002,Software Engineer,Contract,Inactive,2024-04-21,Islamabad,G1,,EMPLOYEE
+EMP0043,Matthew,Carter,matthew.carter43@example.com,DEPT004,Marketing Specialist,Part-time,Active,2020-03-13,Karachi,G4,,EMPLOYEE
+EMP0044,Shawn,Mckay,shawn.mckay44@example.com,DEPT001,HR Business Partner,Part-time,Active,2026-04-21,London,G3,,EMPLOYEE
+EMP0045,Jennifer,Stanton,jennifer.stanton45@example.com,DEPT008,System Administrator,Part-time,Active,2025-05-02,New York,G5,,EMPLOYEE
+EMP0046,Guy,Gaines,guy.gaines46@example.com,DEPT008,IT Support Engineer,Full-time,Active,2026-04-04,Islamabad,G5,EMP0160,EMPLOYEE
+EMP0047,Colleen,Skinner,colleen.skinner47@example.com,DEPT001,HR Manager,Full-time,Active,2023-03-04,London,G5,,MANAGER
+EMP0048,Chelsea,Hernandez,chelsea.hernandez48@example.com,DEPT003,Accountant,Contract,Active,2025-05-04,Karachi,G1,,EMPLOYEE
+EMP0049,Evan,Ashley,evan.ashley49@example.com,DEPT002,Senior Developer,Part-time,Active,2026-09-12,Dubai,G2,,EMPLOYEE
+EMP0050,Alyssa,Smith,alyssa.smith50@example.com,DEPT001,HR Specialist,Part-time,Active,2021-08-11,Dubai,G5,,EMPLOYEE
+EMP0051,Tracy,Rodriguez,tracy.rodriguez51@example.com,DEPT006,Operations Manager,Full-time,Active,2021-12-09,Lahore,G2,EMP0085,EMPLOYEE
+EMP0052,Natasha,Decker,natasha.decker52@example.com,DEPT005,Sales Manager,Full-time,Active,2021-06-20,Lahore,G4,,MANAGER
+EMP0053,John,Allen,john.allen53@example.com,DEPT006,Operations Manager,Full-time,Active,2023-09-05,Dubai,G1,EMP0019,EMPLOYEE
+EMP0054,Stacey,Miller,stacey.miller54@example.com,DEPT002,Senior Developer,Contract,Active,2022-12-26,Lahore,G1,,EMPLOYEE
+EMP0055,Lisa,Spence,lisa.spence55@example.com,DEPT004,Brand Manager,Part-time,Active,2023-05-21,Dubai,G6,,EMPLOYEE
+EMP0056,Katie,Anderson,katie.anderson56@example.com,DEPT005,Sales Analyst,Contract,Active,2022-11-23,New York,G5,,EMPLOYEE
+EMP0057,Stacey,Martin,stacey.martin57@example.com,DEPT005,Sales Analyst,Full-time,On Leave,2023-05-05,Karachi,G3,,EMPLOYEE
+EMP0058,Monique,Henderson,monique.henderson58@example.com,DEPT002,Software Engineer,Contract,Active,2020-08-27,Lahore,G3,,EMPLOYEE
+EMP0059,Sarah,Campos,sarah.campos59@example.com,DEPT004,Content Strategist,Part-time,Active,2024-09-20,New York,G3,,EMPLOYEE
+EMP0060,James,Collins,james.collins60@example.com,DEPT008,System Administrator,Full-time,Active,2024-07-25,London,G3,EMP0030,EMPLOYEE
+EMP0061,Debra,Kim,debra.kim61@example.com,DEPT001,HR Specialist,Part-time,Active,2023-04-04,New York,G3,,EMPLOYEE
+EMP0062,Shannon,Wright,shannon.wright62@example.com,DEPT003,Finance Manager,Part-time,Active,2019-05-25,London,G5,,EMPLOYEE
+EMP0063,Matthew,Chapman,matthew.chapman63@example.com,DEPT001,HR Specialist,Full-time,On Leave,2020-10-22,New York,G2,,EMPLOYEE
+EMP0064,Brianna,Smith,brianna.smith64@example.com,DEPT001,Recruiter,Contract,Active,2024-11-15,London,G2,,EMPLOYEE
+EMP0065,Crystal,Perez,crystal.perez65@example.com,DEPT001,HR Manager,Part-time,On Leave,2026-07-22,Islamabad,G3,,EMPLOYEE
+EMP0066,Anthony,Rivera,anthony.rivera66@example.com,DEPT004,Content Strategist,Full-time,Active,2023-03-24,Lahore,G5,EMP0033,EMPLOYEE
+EMP0067,John,Caldwell,john.caldwell67@example.com,DEPT007,Support Specialist,Full-time,On Leave,2020-09-03,Karachi,G4,,EMPLOYEE
+EMP0068,Amber,Cummings,amber.cummings68@example.com,DEPT001,HR Business Partner,Contract,On Leave,2026-05-11,London,G6,,EMPLOYEE
+EMP0069,Ashley,Kennedy,ashley.kennedy69@example.com,DEPT004,Brand Manager,Full-time,Active,2025-07-11,Islamabad,G4,EMP0109,EMPLOYEE
+EMP0070,Thomas,Russell,thomas.russell70@example.com,DEPT001,HR Coordinator,Full-time,Active,2019-08-28,London,G3,EMP0039,EMPLOYEE
+EMP0071,Collin,Jordan,collin.jordan71@example.com,DEPT005,Sales Manager,Full-time,Active,2022-06-16,Karachi,G4,EMP0052,EMPLOYEE
+EMP0072,Robert,Shields,robert.shields72@example.com,DEPT006,Operations Manager,Full-time,Inactive,2019-04-25,Lahore,G3,,EMPLOYEE
+EMP0073,Emily,Joyce,emily.joyce73@example.com,DEPT007,Customer Support Manager,Full-time,Active,2019-09-09,Lahore,G2,,MANAGER
+EMP0074,Bruce,Chandler,bruce.chandler74@example.com,DEPT005,Sales Executive,Full-time,Active,2025-08-30,Lahore,G6,EMP0133,EMPLOYEE
+EMP0075,Michelle,Wright,michelle.wright75@example.com,DEPT006,Operations Manager,Contract,Inactive,2020-06-20,Islamabad,G4,,EMPLOYEE
+EMP0076,Amanda,Taylor,amanda.taylor76@example.com,DEPT004,Brand Manager,Full-time,Active,2020-05-31,Islamabad,G5,EMP0033,EMPLOYEE
+EMP0077,Joshua,Wright,joshua.wright77@example.com,DEPT004,Marketing Manager,Part-time,Active,2026-09-15,New York,G3,,EMPLOYEE
+EMP0078,Charles,Morton,charles.morton78@example.com,DEPT006,Process Specialist,Full-time,Active,2026-02-18,Lahore,G5,EMP0085,EMPLOYEE
+EMP0079,Andrea,Williams,andrea.williams79@example.com,DEPT005,Sales Analyst,Part-time,Active,2023-06-14,New York,G3,,EMPLOYEE
+EMP0080,Mary,Novak,mary.novak80@example.com,DEPT003,Accountant,Part-time,Active,2026-09-25,London,G6,,EMPLOYEE
+EMP0081,Karen,Young,karen.young81@example.com,DEPT003,Finance Manager,Contract,Active,2022-04-23,Dubai,G1,,EMPLOYEE
+EMP0082,Todd,Lewis,todd.lewis82@example.com,DEPT005,Account Manager,Full-time,Active,2022-04-06,Dubai,G5,EMP0022,EMPLOYEE
+EMP0083,Rachel,Martin,rachel.martin83@example.com,DEPT006,Operations Manager,Part-time,Active,2018-11-14,Karachi,G5,,EMPLOYEE
+EMP0084,Tricia,Baker,tricia.baker84@example.com,DEPT008,Security Analyst,Full-time,Active,2025-07-10,Lahore,G5,EMP0192,EMPLOYEE
+EMP0085,Kristen,Mitchell,kristen.mitchell85@example.com,DEPT006,Operations Manager,Full-time,Active,2024-10-11,Karachi,G2,,MANAGER
+EMP0086,Susan,Cowan,susan.cowan86@example.com,DEPT003,Finance Manager,Full-time,Active,2023-07-31,London,G5,,MANAGER
+EMP0087,Dorothy,Tucker,dorothy.tucker87@example.com,DEPT002,Tech Lead,Part-time,On Leave,2020-06-19,Dubai,G2,,EMPLOYEE
+EMP0088,Kenneth,Novak,kenneth.novak88@example.com,DEPT007,Customer Success Manager,Part-time,Active,2023-10-12,New York,G6,,EMPLOYEE
+EMP0089,Jill,Brown,jill.brown89@example.com,DEPT001,HR Specialist,Part-time,Active,2021-07-09,New York,G5,,EMPLOYEE
+EMP0090,Brian,Silva,brian.silva90@example.com,DEPT008,IT Manager,Contract,Active,2023-02-17,Islamabad,G4,,EMPLOYEE
+EMP0091,Samantha,Schmidt,samantha.schmidt91@example.com,DEPT003,Financial Analyst,Contract,Active,2019-05-03,Dubai,G5,,EMPLOYEE
+EMP0092,Susan,Miller,susan.miller92@example.com,DEPT006,Operations Manager,Contract,Active,2020-06-07,Dubai,G4,,EMPLOYEE
+EMP0093,Casey,Jones,casey.jones93@example.com,DEPT008,IT Support Engineer,Contract,On Leave,2026-03-08,London,G3,,EMPLOYEE
+EMP0094,Joe,Wilson,joe.wilson94@example.com,DEPT004,Content Strategist,Part-time,Active,2026-06-05,Dubai,G4,,EMPLOYEE
+EMP0095,Ashley,Riley,ashley.riley95@example.com,DEPT004,Brand Manager,Part-time,Active,2019-03-11,Lahore,G2,,EMPLOYEE
+EMP0096,Christine,Barnes,christine.barnes96@example.com,DEPT005,Account Manager,Part-time,On Leave,2023-10-26,Islamabad,G2,,EMPLOYEE
+EMP0097,Annette,Stewart,annette.stewart97@example.com,DEPT003,Accountant,Part-time,Active,2021-01-26,New York,G2,,EMPLOYEE
+EMP0098,James,Moran,james.moran98@example.com,DEPT002,Tech Lead,Part-time,Active,2020-11-18,London,G4,,EMPLOYEE
+EMP0099,Joseph,Anderson,joseph.anderson99@example.com,DEPT001,HR Business Partner,Part-time,Active,2024-05-05,Dubai,G6,,EMPLOYEE
+EMP0100,Kevin,Stewart,kevin.stewart100@example.com,DEPT001,HR Coordinator,Part-time,Active,2025-03-31,Lahore,G3,,EMPLOYEE
+EMP0101,Shari,Smith,shari.smith101@example.com,DEPT007,Customer Success Manager,Contract,Active,2024-02-19,Dubai,G5,,EMPLOYEE
+EMP0102,Yolanda,Ferrell,yolanda.ferrell102@example.com,DEPT004,Brand Manager,Full-time,Active,2019-06-23,London,G1,EMP0109,EMPLOYEE
+EMP0103,Amanda,Wagner,amanda.wagner103@example.com,DEPT007,Customer Success Manager,Contract,Active,2019-12-24,London,G6,,EMPLOYEE
+EMP0104,Sarah,Ibarra,sarah.ibarra104@example.com,DEPT003,Financial Analyst,Full-time,Inactive,2026-05-01,Dubai,G1,,EMPLOYEE
+EMP0105,John,Mitchell,john.mitchell105@example.com,DEPT007,Customer Support Manager,Full-time,Active,2022-07-31,Karachi,G4,,MANAGER
+EMP0106,Martha,Warner,martha.warner106@example.com,DEPT003,Accountant,Part-time,Active,2024-01-21,Karachi,G4,,EMPLOYEE
+EMP0107,Tonya,Roman,tonya.roman107@example.com,DEPT006,Operations Manager,Part-time,Active,2023-05-09,London,G3,,EMPLOYEE
+EMP0108,Alan,Montoya,alan.montoya108@example.com,DEPT002,Engineering Manager,Full-time,Active,2021-05-26,Islamabad,G3,,MANAGER
+EMP0109,Sarah,Garcia,sarah.garcia109@example.com,DEPT004,Marketing Manager,Full-time,Active,2026-04-28,New York,G1,,MANAGER
+EMP0110,Dennis,Wilson,dennis.wilson110@example.com,DEPT001,HR Manager,Full-time,Active,2019-10-06,Dubai,G2,EMP0047,EMPLOYEE
+EMP0111,Julia,Moore,julia.moore111@example.com,DEPT004,Marketing Specialist,Part-time,Active,2021-04-01,Dubai,G2,,EMPLOYEE
+EMP0112,Cassandra,Robbins,cassandra.robbins112@example.com,DEPT008,Security Analyst,Part-time,Active,2020-08-01,Karachi,G5,,EMPLOYEE
+EMP0113,Grace,Farrell,grace.farrell113@example.com,DEPT002,Senior Developer,Part-time,Active,2023-02-25,Islamabad,G3,,EMPLOYEE
+EMP0114,Tracy,Whitehead,tracy.whitehead114@example.com,DEPT007,Customer Success Manager,Contract,Active,2026-01-18,Dubai,G6,,EMPLOYEE
+EMP0115,Brent,Walters,brent.walters115@example.com,DEPT004,Marketing Specialist,Contract,Active,2025-11-27,New York,G5,,EMPLOYEE
+EMP0116,Joshua,Smith,joshua.smith116@example.com,DEPT002,Engineering Manager,Part-time,Active,2025-05-30,New York,G3,,EMPLOYEE
+EMP0117,David,Whitney,david.whitney117@example.com,DEPT002,QA Engineer,Full-time,Active,2020-03-24,London,G1,EMP0006,EMPLOYEE
+EMP0118,Joyce,Arnold,joyce.arnold118@example.com,DEPT007,Customer Success Manager,Contract,On Leave,2022-06-28,London,G6,,EMPLOYEE
+EMP0119,Ann,Rodriguez,ann.rodriguez119@example.com,DEPT003,Financial Analyst,Full-time,Active,2026-05-13,New York,G3,EMP0144,EMPLOYEE
+EMP0120,Hannah,Hernandez,hannah.hernandez120@example.com,DEPT008,System Administrator,Part-time,Active,2019-02-27,Dubai,G3,,EMPLOYEE
+EMP0121,Mary,Aguilar,mary.aguilar121@example.com,DEPT006,Operations Analyst,Full-time,Active,2020-02-11,London,G2,EMP0019,EMPLOYEE
+EMP0122,Russell,Williams,russell.williams122@example.com,DEPT008,Security Analyst,Contract,Active,2021-12-14,Lahore,G1,,EMPLOYEE
+EMP0123,Rachel,Flynn,rachel.flynn123@example.com,DEPT008,System Administrator,Full-time,Active,2026-03-05,Lahore,G3,EMP0160,EMPLOYEE
+EMP0124,Bill,Howard,bill.howard124@example.com,DEPT006,Operations Manager,Contract,Active,2024-08-27,Lahore,G5,,EMPLOYEE
+EMP0125,John,Garcia,john.garcia125@example.com,DEPT001,HR Business Partner,Full-time,Active,2025-06-27,London,G4,EMP0039,EMPLOYEE
+EMP0126,Anita,Baxter,anita.baxter126@example.com,DEPT004,Content Strategist,Part-time,Active,2024-02-18,London,G4,,EMPLOYEE
+EMP0127,Kara,Frost,kara.frost127@example.com,DEPT001,HR Specialist,Part-time,Active,2020-11-12,New York,G2,,EMPLOYEE
+EMP0128,Michelle,Cherry,michelle.cherry128@example.com,DEPT005,Sales Analyst,Contract,Active,2025-09-30,Dubai,G5,,EMPLOYEE
+EMP0129,Gregory,Gutierrez,gregory.gutierrez129@example.com,DEPT006,Operations Manager,Contract,Active,2020-05-18,Lahore,G6,,EMPLOYEE
+EMP0130,Jill,Cook,jill.cook130@example.com,DEPT008,System Administrator,Part-time,Active,2026-10-08,Islamabad,G6,,EMPLOYEE
+EMP0131,Robert,Santiago,robert.santiago131@example.com,DEPT004,Brand Manager,Full-time,Active,2025-02-07,New York,G2,EMP0033,EMPLOYEE
+EMP0132,Lisa,Adams,lisa.adams132@example.com,DEPT004,Marketing Specialist,Contract,Active,2025-07-20,New York,G5,,EMPLOYEE
+EMP0133,Jacqueline,Reyes,jacqueline.reyes133@example.com,DEPT005,Sales Manager,Full-time,Active,2019-03-08,Lahore,G2,,MANAGER
+EMP0134,Michele,Walker,michele.walker134@example.com,DEPT005,Sales Executive,Contract,Active,2025-10-19,Lahore,G1,,EMPLOYEE
+EMP0135,Samantha,Bailey,samantha.bailey135@example.com,DEPT001,Recruiter,Contract,On Leave,2025-10-31,New York,G4,,EMPLOYEE
+EMP0136,Laura,Perez,laura.perez136@example.com,DEPT002,Software Engineer,Contract,Active,2019-01-20,London,G4,,EMPLOYEE
+EMP0137,Donna,Ross,donna.ross137@example.com,DEPT006,Operations Analyst,Full-time,Active,2021-03-22,London,G1,EMP0085,EMPLOYEE
+EMP0138,Michelle,Rasmussen,michelle.rasmussen138@example.com,DEPT002,Tech Lead,Part-time,Active,2021-03-24,New York,G6,,EMPLOYEE
+EMP0139,Michael,Hicks,michael.hicks139@example.com,DEPT001,HR Business Partner,Full-time,Active,2024-08-19,Lahore,G1,EMP0047,EMPLOYEE
+EMP0140,Tina,Herrera,tina.herrera140@example.com,DEPT004,Marketing Specialist,Contract,Active,2026-11-04,Dubai,G5,,EMPLOYEE
+EMP0141,Anthony,Wiley,anthony.wiley141@example.com,DEPT004,Content Strategist,Part-time,Active,2021-01-27,London,G3,,EMPLOYEE
+EMP0142,Gregory,Estes,gregory.estes142@example.com,DEPT007,Customer Success Manager,Contract,Active,2021-02-09,Dubai,G6,,EMPLOYEE
+EMP0143,Benjamin,Carlson,benjamin.carlson143@example.com,DEPT002,Senior Developer,Contract,Active,2021-10-17,New York,G1,,EMPLOYEE
+EMP0144,Jessica,Edwards,jessica.edwards144@example.com,DEPT003,Finance Manager,Full-time,Active,2024-01-04,Karachi,G1,,MANAGER
+EMP0145,Tracey,Wilson,tracey.wilson145@example.com,DEPT007,Customer Support Manager,Contract,Active,2026-07-03,Lahore,G1,,EMPLOYEE
+EMP0146,Barbara,Scott,barbara.scott146@example.com,DEPT004,Brand Manager,Contract,Active,2024-11-18,London,G1,,EMPLOYEE
+EMP0147,Ryan,Meyer,ryan.meyer147@example.com,DEPT004,Brand Manager,Contract,Active,2025-09-17,Karachi,G4,,EMPLOYEE
+EMP0148,Amanda,Ball,amanda.ball148@example.com,DEPT002,Senior Developer,Contract,Active,2025-03-01,Lahore,G2,,EMPLOYEE
+EMP0149,Jillian,Gonzalez,jillian.gonzalez149@example.com,DEPT002,Engineering Manager,Full-time,Active,2022-07-09,Dubai,G6,EMP0010,EMPLOYEE
+EMP0150,Chad,Beck,chad.beck150@example.com,DEPT005,Sales Manager,Full-time,Active,2021-08-29,Lahore,G6,EMP0052,EMPLOYEE
+EMP0151,Cindy,Alvarado,cindy.alvarado151@example.com,DEPT007,Customer Success Manager,Contract,Active,2019-11-30,London,G1,,EMPLOYEE
+EMP0152,Jennifer,Evans,jennifer.evans152@example.com,DEPT001,HR Coordinator,Contract,Active,2021-06-25,Lahore,G1,,EMPLOYEE
+EMP0153,Elizabeth,Nguyen,elizabeth.nguyen153@example.com,DEPT002,Senior Developer,Contract,Active,2024-10-13,Dubai,G5,,EMPLOYEE
+EMP0154,Kenneth,Martinez,kenneth.martinez154@example.com,DEPT001,Recruiter,Contract,Active,2022-06-06,Karachi,G4,,EMPLOYEE
+EMP0155,Elizabeth,Gray,elizabeth.gray155@example.com,DEPT008,System Administrator,Full-time,Inactive,2025-03-20,London,G6,,EMPLOYEE
+EMP0156,Raven,Gilbert,raven.gilbert156@example.com,DEPT008,IT Manager,Part-time,Active,2021-05-31,Lahore,G3,,EMPLOYEE
+EMP0157,Richard,Bass,richard.bass157@example.com,DEPT002,Senior Developer,Part-time,Active,2021-06-09,London,G3,,EMPLOYEE
+EMP0158,Justin,Jordan,justin.jordan158@example.com,DEPT007,Support Specialist,Part-time,Active,2023-10-14,Lahore,G3,,EMPLOYEE
+EMP0159,Catherine,Morris,catherine.morris159@example.com,DEPT002,Tech Lead,Contract,Active,2022-08-11,Islamabad,G6,,EMPLOYEE
+EMP0160,Scott,Lewis,scott.lewis160@example.com,DEPT008,IT Manager,Full-time,Active,2022-11-17,Lahore,G5,,MANAGER
+EMP0161,Laura,Moyer,laura.moyer161@example.com,DEPT008,Security Analyst,Part-time,Active,2025-02-10,Karachi,G3,,EMPLOYEE
+EMP0162,Gene,Miller,gene.miller162@example.com,DEPT003,Financial Analyst,Part-time,On Leave,2023-03-28,London,G1,,EMPLOYEE
+EMP0163,Elizabeth,Harvey,elizabeth.harvey163@example.com,DEPT001,HR Business Partner,Contract,Active,2019-08-25,Dubai,G1,,EMPLOYEE
+EMP0164,Loretta,Potter,loretta.potter164@example.com,DEPT007,Support Specialist,Full-time,Inactive,2024-07-29,Islamabad,G4,,EMPLOYEE
+EMP0165,Lance,Drake,lance.drake165@example.com,DEPT002,Engineering Manager,Part-time,On Leave,2020-02-08,Lahore,G5,,EMPLOYEE
+EMP0166,Andrew,Sanchez,andrew.sanchez166@example.com,DEPT005,Account Manager,Part-time,Inactive,2022-11-23,Karachi,G4,,EMPLOYEE
+EMP0167,Cheryl,Mack,cheryl.mack167@example.com,DEPT003,Financial Analyst,Full-time,On Leave,2022-09-22,Dubai,G6,,EMPLOYEE
+EMP0168,Robert,Soto,robert.soto168@example.com,DEPT003,Accountant,Part-time,Active,2020-07-04,London,G3,,EMPLOYEE
+EMP0169,Jennifer,Cruz,jennifer.cruz169@example.com,DEPT005,Sales Executive,Part-time,Active,2022-04-02,Dubai,G5,,EMPLOYEE
+EMP0170,John,Douglas,john.douglas170@example.com,DEPT008,IT Support Engineer,Part-time,Active,2018-11-25,Lahore,G3,,EMPLOYEE
+EMP0171,Patricia,Dalton,patricia.dalton171@example.com,DEPT007,Customer Success Manager,Part-time,On Leave,2026-05-21,New York,G2,,EMPLOYEE
+EMP0172,Daniel,Coleman,daniel.coleman172@example.com,DEPT007,Support Specialist,Part-time,Active,2020-05-07,New York,G4,,EMPLOYEE
+EMP0173,Linda,Dominguez,linda.dominguez173@example.com,DEPT007,Customer Success Manager,Contract,Active,2022-10-21,New York,G2,,EMPLOYEE
+EMP0174,Brent,Wright,brent.wright174@example.com,DEPT008,IT Support Engineer,Full-time,Active,2026-01-25,Dubai,G3,EMP0030,EMPLOYEE
+EMP0175,David,Anderson,david.anderson175@example.com,DEPT002,Engineering Manager,Full-time,Active,2022-10-21,London,G1,,MANAGER
+EMP0176,Elizabeth,Travis,elizabeth.travis176@example.com,DEPT003,Financial Analyst,Contract,Inactive,2023-12-02,Islamabad,G4,,EMPLOYEE
+EMP0177,Logan,Fischer,logan.fischer177@example.com,DEPT005,Account Manager,Contract,Active,2022-08-14,New York,G1,,EMPLOYEE
+EMP0178,Cheyenne,Ball,cheyenne.ball178@example.com,DEPT006,Process Specialist,Contract,Active,2023-02-23,Lahore,G6,,EMPLOYEE
+EMP0179,Ronald,Meadows,ronald.meadows179@example.com,DEPT008,Security Analyst,Full-time,Active,2022-08-24,Karachi,G6,EMP0192,EMPLOYEE
+EMP0180,Phyllis,Manning,phyllis.manning180@example.com,DEPT005,Sales Executive,Contract,Active,2022-11-21,Islamabad,G6,,EMPLOYEE
+EMP0181,Shannon,Walton,shannon.walton181@example.com,DEPT002,Tech Lead,Full-time,Active,2025-12-30,Islamabad,G1,EMP0175,EMPLOYEE
+EMP0182,Dana,Cannon,dana.cannon182@example.com,DEPT006,Operations Analyst,Part-time,Active,2023-04-15,London,G2,,EMPLOYEE
+EMP0183,Todd,Allen,todd.allen183@example.com,DEPT004,Marketing Manager,Part-time,Active,2022-08-05,Karachi,G2,,EMPLOYEE
+EMP0184,Chris,Mitchell,chris.mitchell184@example.com,DEPT003,Accountant,Contract,On Leave,2021-03-01,Dubai,G6,,EMPLOYEE
+EMP0185,Matthew,Orozco,matthew.orozco185@example.com,DEPT004,Brand Manager,Contract,Active,2019-07-16,London,G6,,EMPLOYEE
+EMP0186,Devon,Hall,devon.hall186@example.com,DEPT005,Account Manager,Part-time,Active,2024-10-03,London,G3,,EMPLOYEE
+EMP0187,Eric,Lewis,eric.lewis187@example.com,DEPT003,Accountant,Part-time,On Leave,2022-05-19,Dubai,G3,,EMPLOYEE
+EMP0188,Rick,Daniels,rick.daniels188@example.com,DEPT007,Customer Success Manager,Part-time,Active,2022-05-22,Karachi,G4,,EMPLOYEE
+EMP0189,Bryan,Wall,bryan.wall189@example.com,DEPT008,IT Support Engineer,Full-time,Active,2022-03-02,Lahore,G5,EMP0160,EMPLOYEE
+EMP0190,Rebecca,Silva,rebecca.silva190@example.com,DEPT005,Sales Analyst,Part-time,Active,2024-10-07,New York,G4,,EMPLOYEE
+EMP0191,Andrew,Gilmore,andrew.gilmore191@example.com,DEPT005,Sales Executive,Contract,On Leave,2023-10-01,New York,G1,,EMPLOYEE
+EMP0192,Omar,Smith,omar.smith192@example.com,DEPT008,IT Manager,Full-time,Active,2021-11-04,Lahore,G2,,MANAGER
+EMP0193,Kenneth,Price,kenneth.price193@example.com,DEPT004,Content Strategist,Part-time,Active,2026-06-09,New York,G6,,EMPLOYEE
+EMP0194,Stephanie,Barnes,stephanie.barnes194@example.com,DEPT003,Finance Manager,Full-time,On Leave,2025-03-18,New York,G1,,EMPLOYEE
+EMP0195,Jessica,Marsh,jessica.marsh195@example.com,DEPT005,Account Manager,Full-time,Active,2026-06-28,New York,G2,EMP0133,EMPLOYEE
+EMP0196,Jeffrey,Robinson,jeffrey.robinson196@example.com,DEPT002,QA Engineer,Part-time,Active,2022-07-24,Karachi,G2,,EMPLOYEE
+EMP0197,Todd,Price,todd.price197@example.com,DEPT003,Finance Manager,Part-time,Active,2024-07-17,Lahore,G2,,EMPLOYEE
+EMP0198,Erin,Powell,erin.powell198@example.com,DEPT005,Account Manager,Part-time,Active,2020-04-03,Lahore,G1,,EMPLOYEE
+EMP0199,Mary,Calhoun,mary.calhoun199@example.com,DEPT008,IT Support Engineer,Full-time,Active,2024-02-23,Karachi,G6,EMP0030,EMPLOYEE
+EMP0200,Amanda,Meadows,amanda.meadows200@example.com,DEPT007,Customer Success Manager,Full-time,Active,2023-11-20,Islamabad,G3,EMP0073,EMPLOYEE

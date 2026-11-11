@@ -1,0 +1,48 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+venv_langgraph/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Local databases and database backups
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+
+# Historical database backups and reconciliation reports
+data/generated/*backup*.csv
+data/generated/*pre_id_fix*.csv
+data/generated/*reconciliation_report*.csv
+
+# Logs
+*.log
+logs/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
